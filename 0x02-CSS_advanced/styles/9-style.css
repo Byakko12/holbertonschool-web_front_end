@@ -13,7 +13,7 @@ body {
 
 a {
     color: var(--text-color);
-    color: inherit;
+    text-decoration: none;
 }
 
 .visually-hidden {
